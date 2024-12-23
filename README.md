@@ -1,6 +1,6 @@
-# <a href="/go/">Bet365.com</a>
+# <a href="https://bit.ly/bet-brasil">Bet365.com</a>
 
-# <a href="/go/">CLIQUE AQUI PARA ACEDER</a>
+# <a href="https://bit.ly/bet-brasil">CLIQUE AQUI PARA ACEDER</a>
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,9 +8,9 @@
 <body>
 
 <div style=<text-align: center;">
-<a href="/go/" title="Bet365"><img src="https://github.com/user-attachments/assets/19bd918a-2288-46f8-bffe-9f3cfbd5f4b0" title="Bet365" alt="Bet365"></a></div>
+<a href="https://bit.ly/bet-brasil" title="Bet365"><img src="https://github.com/user-attachments/assets/19bd918a-2288-46f8-bffe-9f3cfbd5f4b0" title="Bet365" alt="Bet365"></a></div>
 <div style=<text-align: center;">
-<a href="/go/">
+<a href="https://bit.ly/bet-brasil">
 <img src="https://github.com/user-attachments/assets/19bd918a-2288-46f8-bffe-9f3cfbd5f4b0" />
 </a></div>
 
